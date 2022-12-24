@@ -1,2 +1,2 @@
 # parallax.io
-Parallax effect is added to website.
+Parallax effect is added to the website.
