@@ -1,0 +1,73 @@
+*
+{
+margin: 0;
+font-size: 1rem;
+font-weight: 25rem;
+color: rgb(186, 142, 58);
+font-family: 'Chivo Mono', monospace;
+}
+
+.img1
+{
+background-image: url(./images/cobeans.jpg);
+min-height: 100vh;
+}
+
+.img2{
+background-image: url(./images/cocup.jpg);
+min-height: 200vh;
+}
+
+.img3{
+background-image: url(./images/cotree.jpeg);
+min-height: 200vh;
+}
+
+.img1,.img2,.img3
+{
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+background-position: center;
+background-attachment: fixed;
+}
+
+.txt
+{
+position: absolute;
+top:40%;
+width: 100%;
+text-align: center;
+letter-spacing: 12px;
+}
+
+.txtbg 
+{
+padding: 20px;
+opacity: 1;
+margin: 0 50px;
+font-size: 150px;
+}
+
+
+.sec
+{
+padding: 50px 80px;
+text-align: center;
+}
+
+h2{
+color: rgb(120, 95, 27);
+padding: 15px;
+font-size: 1.8rem;
+}
+
+.text{
+margin-top: 2rem;
+color: rgb(107, 72, 17);
+}
+
+.sec-bg
+{
+background-color: rgb(200, 153, 91);
+}
